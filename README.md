@@ -1,2 +1,3 @@
-# SeleniumIDEApp Jenkins pipeline
+# SeleniumIDEApp Jenkins pipeline 
 SoftUni exercise for the DevOps for Developers module
+Some text
