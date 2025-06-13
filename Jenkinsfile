@@ -21,6 +21,12 @@ pipeline {
                 bat 'dotnet test --no-build --configuration Release --verbosity normal'
             }
         }
+
+        stage('Deploy') {
+            steps {
+                echo 'Deploy to production...'
+            }
+        }
     }
     
     post {
